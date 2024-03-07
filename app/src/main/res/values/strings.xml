@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyCourse</string>
+    <string name="view_more">View More</string>
+    <string name="owned">Owned</string>
+    <string name="hint_search">Search</string>
+    <string name="clear_filter">Clear Filter</string>
+    <string name="no_courses_found_for_given_search">No courses found for given search</string>
+</resources>
